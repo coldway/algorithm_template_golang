@@ -19,3 +19,9 @@ func waysToReachTarget(target int, types [][]int) int {
 	return f[target]
 }
 */
+/*
+https://leetcode.cn/problems/number-of-ways-to-earn-points/description/
+https://leetcode.cn/problems/find-the-original-typed-string-ii/description/
+https://leetcode.cn/problems/count-of-sub-multisets-with-bounded-sum/description/
+https://leetcode.cn/problems/zero-array-transformation-iv/description/
+*/
